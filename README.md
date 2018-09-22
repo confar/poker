@@ -1,1 +1,1 @@
-Project for education purposes for udacity course: Design of computer programs
+Project for education purposes for Udacity course - Design of computer programs
